@@ -1,3 +1,6 @@
+# Setup
+
+## Git Script
 echo "# udemyLearnNode" >> README.md
 git init
 git add README.md
@@ -7,11 +10,11 @@ git branch -M main
 git remote add origin https://github.com/PaulAyling/udemyLearnNode.git
 git push -u origin main
 
-#Initialize NOde.js
-##Step 1 Initialize Node
+# Initialize Node.js
+## Step 1 Initialize Node
 npm init
 
-##Step 2 Go here https://nodejs.org/en/about/
+## Step 2 Go here https://nodejs.org/en/about/
 copy 
   const http = require('http');
 
