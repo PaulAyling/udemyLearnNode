@@ -1,14 +1,16 @@
 # Setup
+## References
+https://www.markdownguide.org/basic-syntax
 
 ## Git Script
-  echo "# udemyLearnNode" >> README.md
-  git init
-  git add README.md
-  git add .
-  git commit -m "first commit"
-  git branch -M main
-  git remote add origin https://github.com/PaulAyling/udemyLearnNode.git
-  git push -u origin main
+`echo "# udemyLearnNode" >> README.md
+git init
+git add README.md
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/PaulAyling/udemyLearnNode.git
+git push -u origin main`
 
 # Initialize Node.js
 ## Step 1 Initialize Node
