@@ -24,8 +24,10 @@ https://www.markdownguide.org/basic-syntax
 npm init
 
 ## Step 2
+
+Go here https://nodejs.org/en/about/ and copy code below into server.js
+
 ```
-Go here https://nodejs.org/en/about/ and copy code below
 const http = require('http');
 
 const hostname = '127.0.0.1';
