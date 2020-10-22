@@ -24,7 +24,7 @@ https://www.markdownguide.org/basic-syntax
 npm init
 
 ## Step 2
-
+```
 Go here https://nodejs.org/en/about/ and copy code below
 const http = require('http');
 
@@ -40,3 +40,4 @@ res.end('Hello World');
 server.listen(port, hostname, () => {
 console.log(`Server running at http://${hostname}:${port}/`);
 });
+```
